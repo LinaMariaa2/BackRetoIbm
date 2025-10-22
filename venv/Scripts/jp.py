@@ -1,4 +1,4 @@
-#!C:\Users\SENA\Desktop\ibm\venv\Scripts\python.exe
+#!C:\Users\SENA\Desktop\ibm_reto\venv\Scripts\python.exe
 
 import sys
 import json
